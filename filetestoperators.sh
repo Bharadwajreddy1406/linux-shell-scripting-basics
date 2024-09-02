@@ -18,4 +18,8 @@ fi
 # -e is to check whether it exists or not it can be directory or a file
 # -f is to check whether it exists and it's a file or not
 # -d is to check whether it exists and it's a directory or not
+# -s to check whether a file is empty or not
+# -r to check read permission
+# -w for write operation
+# -x for checking the executable permission 
 
