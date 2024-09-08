@@ -1,0 +1,25 @@
+###########################################################
+
+
+
+why do we move to Cloud ?
+1) Manageability, avioding physical servers for our startups blah blah, 
+2) cost effective  , if we have physical servers, then we have to pay anyway, but if you have 
+cloud, then you can follow pay as you go 
+
+to remove any sort of maintenance overhead and also cost overhead, organizations shift to Cloud 
+
+we can track our resources 
+
+EC2, S3  Lambda IAM 
+
+
+we should report this information to a reporting dashboard 
+
+SHELL > file or DB
+
+
+CronJOB -- > one of the linux processes executes a shell script for you at X timestamp
+
+we write a shell script and we integrate it with a CronJOB
+
