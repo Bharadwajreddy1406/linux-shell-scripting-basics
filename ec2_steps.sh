@@ -30,5 +30,5 @@ EOF
 # Verify Docker and Docker Compose installation
 docker --version
 docker-compose --version
-
+sudo usermod -aG docker $USER
 echo "Docker and Docker Compose have been successfully installed!"
